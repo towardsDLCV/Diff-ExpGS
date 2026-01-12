@@ -1,0 +1,38 @@
+name: Diff-expGS
+channels:
+  - pytorch
+  - nvidia
+  - conda-forge
+dependencies:
+  # Python
+  - python=3.10
+  - pytorch==2.7.0
+  - torchvision==0.22.0
+  - torchaudio==2.7.0
+  - pytorch-cuda=12.8
+  - pip
+
+  - pip:
+      - imageio==2.37.0
+      - imageio-ffmpeg==0.4.2
+      - transformers==4.37.2
+      - torchmetrics==1.8.0
+      - diffusers==0.34.0
+      - deepspeed==0.14.4
+      - huggingface-hub==0.33.4
+      - safetensors==0.6.2
+      - opencv-python==4.12.0.88
+      - plyfile
+      - open3d==0.19.0
+      - scikit-learn
+      - tqdm
+      - einops
+      - scikit-image
+      - matplotlib
+      - lpips
+      - numpy==1.26.4
+      - jaxtyping
+      - yapf==0.43.0
+      - submodules/diff-gaussian-rasterization
+      - submodules/simple-knn
+      - submodules/fused-ssim
