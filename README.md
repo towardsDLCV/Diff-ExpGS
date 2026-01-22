@@ -28,6 +28,7 @@
     <img src="https://img.shields.io/badge/Project-Page-blue?logo=website" alt="Project Page">
   </a>
 </div>
+</p>
 
 <p align="center">
   <img src="./assets/teaser.png" alt="Diff-ExpGS Teaser" style="width:100%;"/>
