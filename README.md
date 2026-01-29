@@ -3,7 +3,7 @@
 
 <p align="center">
     <a href='https://scholar.google.com/citations?user=5C9TeqgAAAAJ&hl=ko/' target='_blank'>Cheolhoon Park</a><sup>1</sup>&emsp;
-    <a href='https://github.com/coldbell8918/' target='_blank'>Jongchan Park</a><sup>1</sup>&emsp;<br>
+    <a href='https://github.com/coldbell8918/' target='_blank'>Jongchan Park</a><sup>1</sup>&emsp;
 <a href='https://scholar.google.com/citations?user=4Q-TY8YAAAAJ&hl=ko&oi=ao/' target='_blank'>Woojin Ahn</a><sup>3</sup>&emsp;
     <a href='https://scholar.google.com/citations?user=SIfp2fUAAAAJ&hl=ko&oi=ao/' target='_blank'>Hyunduck Choi</a><sup>2</sup>&emsp;
     <a href='https://scholar.google.com/citations?user=scecuqcAAAAJ&hl=ko&oi=ao/' target='_blank'>Myotaeg Lim</a><sup>1,†</sup>&emsp;<br>
