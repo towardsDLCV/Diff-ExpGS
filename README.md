@@ -10,23 +10,9 @@
 <sup>1</sup>Korea University,&nbsp;&nbsp;&nbsp;&nbsp; <sup>2</sup>SeoulTech,&nbsp;&nbsp;&nbsp;&nbsp; <sup>3</sup>Inha University
 </p>
 
-[//]: # (<div>)
-
-[//]: # (    <h4 align="center">)
-
-[//]: # (        • <a href="https://github.com/towardsDLCV/RBaIR" target='_blank'>arXiv 2025</a> •)
-
-[//]: # (    </h4>)
-
-[//]: # (</div>)
-
 <div align="center">
-  <a href="https://github.com/towardsDLCV/">
-    <img src="https://img.shields.io/badge/arXiv-2512.11520-red?logo=arxiv" alt="arXiv Badge">
-  </a>
-  <a href="https://github.com/towardsDLCV/">
-    <img src="https://img.shields.io/badge/Project-Page-blue?logo=website" alt="Project Page">
-  </a>
+  <a href="https://github.com/towardsDLCV/"><img src="https://img.shields.io/badge/arXiv-2512.11520-red?logo=arxiv" alt="arXiv Badge"></a>
+  <a href="https://github.com/towardsDLCV/"><img src="https://img.shields.io/badge/Project-Page-blue?logo=website" alt="Project Page"></a>
 </div>
 </p>
 
@@ -79,7 +65,7 @@ Comparison of PSNR, SSIM, and LPIPS metrics under varying illumination condition
 
 We provide rendered test images and reconstructed 3D Gaussian `.ply` files for all scenes, including low-exposure, over-exposure, and varying-exposure settings.
 
-- 📂 **[Download Visual Results & .ply Files](https://drive.google.com/file/d/1ZOTSypNpTJqqaBAl45ENuxPvvEr0LlSk/view?usp=drive_link)** 
+- 📂 **[Download Visual Results & .ply Files](https://drive.google.com/file/d/16Z2ETm1vfJyyW0USmuyE_6dSqMCrxAt4/view?usp=drive_link)** 
 
 > The `.ply` files can be easily visualized using [SuperSplat](https://superspl.at/editor).
 
